@@ -1,4 +1,4 @@
-- name: windows server patching 22
+- name: KILL
   hosts: all
   tasks:
 
